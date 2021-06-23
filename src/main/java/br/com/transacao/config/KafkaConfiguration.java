@@ -1,6 +1,6 @@
 package br.com.transacao.config;
 
-import br.com.transacao.request.EventoTransacaoRequest;
+import br.com.transacao.dto.request.EventoTransacaoRequest;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.common.serialization.StringDeserializer;
 import org.springframework.boot.autoconfigure.kafka.KafkaProperties;

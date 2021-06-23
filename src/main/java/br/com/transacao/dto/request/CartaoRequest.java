@@ -1,4 +1,4 @@
-package br.com.transacao.request;
+package br.com.transacao.dto.request;
 
 import br.com.transacao.model.Cartao;
 

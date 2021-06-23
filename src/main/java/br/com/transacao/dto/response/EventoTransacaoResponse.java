@@ -1,4 +1,4 @@
-package br.com.transacao.response;
+package br.com.transacao.dto.response;
 
 import br.com.transacao.model.EventoTransacao;
 

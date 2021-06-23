@@ -1,7 +1,7 @@
 package br.com.transacao.listener;
 
 import br.com.transacao.repository.TransacaoRepository;
-import br.com.transacao.request.EventoTransacaoRequest;
+import br.com.transacao.dto.request.EventoTransacaoRequest;
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.stereotype.Component;
 

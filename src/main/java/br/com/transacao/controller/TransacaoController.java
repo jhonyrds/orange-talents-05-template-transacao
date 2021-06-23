@@ -2,7 +2,7 @@ package br.com.transacao.controller;
 
 import br.com.transacao.model.EventoTransacao;
 import br.com.transacao.repository.TransacaoRepository;
-import br.com.transacao.response.EventoTransacaoResponse;
+import br.com.transacao.dto.response.EventoTransacaoResponse;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.domain.Sort;
